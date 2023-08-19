@@ -35,6 +35,6 @@ now we accept the creation of this after doing this we go to the button on the l
 ,
 <img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/9497d363-ebb5-4caa-8c05-3d87e62d9412'width="300" src= />
 ,
-<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/ba6673ee-fb52-4ae4-88e2-6b999b3f29b9'width="200" src= />
+<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/ba6673ee-fb52-4ae4-88e2-6b999b3f29b9'width="300" src= />
 
 
