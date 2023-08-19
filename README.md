@@ -1,4 +1,3 @@
-# Achievements.github
 <br>
 
 <div align="center">
@@ -14,4 +13,8 @@
 </div>
 
 <br>
+
 # How do get Archievements totally step by step
+
+ In this repository I am going to show you how to do so that you can get the following achievements step by step
+<img align="right" width="300" src= />
