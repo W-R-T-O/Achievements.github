@@ -23,12 +23,18 @@
 The first thing we are going to do is create a new repository
 
 <img align="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/8d7111e7-bc22-43f6-823a-dc189075bbc2' width="300" src= />
-we can put the name we want, in this case I put this,<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/68f8078f-5654-4088-8360-94ff14984d5f'width="300" src= />
-now we accept the creation of this after doing this we go to the button on the left side called issue, we are going to create a new issues.<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/a5eb067b-ae3e-4df0-b1f7-beab5c1bbdb8'width="300" src= />
+we can put the name we want,<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/68f8078f-5654-4088-8360-94ff14984d5f'width="300" src= />
+now we accept the creation of this after doing this we go to the button on the left side called issue, we are going to create a new issues.
+<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/a5eb067b-ae3e-4df0-b1f7-beab5c1bbdb8'width="300" src= />
+,
 <img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/9bc8e13e-e3be-4eed-89ea-52f0635a591e'width="300" src= />
+,
 <img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/3e5763c7-3f7b-4c8d-aa7d-da36e55e8719'width="300" src= />
+,
 <img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/9c3e2a2b-c776-4df5-b44e-a75659875768'width="300" src= />
+,
 <img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/9497d363-ebb5-4caa-8c05-3d87e62d9412'width="300" src= />
-<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/ba6673ee-fb52-4ae4-88e2-6b999b3f29b9'width="100" src= />
+,
+<img aling="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/ba6673ee-fb52-4ae4-88e2-6b999b3f29b9'width="200" src= />
 
 
