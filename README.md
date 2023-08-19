@@ -17,11 +17,10 @@
 # How do get Archievements totally step by step
 
  In this repository I am going to show you how to do so that you can get the following achievements step by step
-<img align="right" width="300" src= />
+
 # Quickdraw 
 <img width="148" alt="QuickDraw_SkinTone1" src="https://github.com/W-R-T-O/Achievements.github/assets/98999805/02bc7508-b3e7-4a07-819f-310879655899">
 The first thing we are going to do is create a new repository![new issue](https://github.com/W-R-T-O/Achievements.github/assets/98999805/a5eb067b-ae3e-4df0-b1f7-beab5c1bbdb8)
-![New repository](https://github.com/W-R-T-O/Achievements.github/assets/98999805/8d7111e7-bc22-43f6-823a-dc189075bbc2)
-
+<img align="right" src='https://github.com/W-R-T-O/Achievements.github/assets/98999805/8d7111e7-bc22-43f6-823a-dc189075bbc2' width="300" src= />
 we can put the name we want, in this case I put this, now we accept the creation of this after doing this we go to the button on the left side called issue, we are going to create a new issues.
 
